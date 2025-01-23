@@ -4,4 +4,4 @@ phases:
   build:
     commands:
       - echo "Hello World"
-      - echo "The Build was successfull"
+      - echo "The Build was successfull" >> file1.txt
